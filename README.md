@@ -13,7 +13,8 @@ Menggunakan Repository Pattern memberikan beberapa keuntungan utama:
 2. **Single Source of Truth:** Repositori memastikan bahwa aplikasi selalu menggunakan data yang konsisten, biasanya dengan mengarahkan ViewModel ke database lokal yang disinkronkan dengan data dari jaringan. Ini memungkinkan aplikasi berjalan luring (offline).
 
 ## Bukti Eksekusi
-- Screenshot caching lokal: [Silakan tambahkan screenshot aplikasi Anda di sini]
+<img alt="12.png" src="/home/yi-sun-sin/RepositorypatternandWorkManager/12.png"/>
+<img alt="12.png" src="/home/yi-sun-sin/RepositorypatternandWorkManager/13.png"/>
 - Logcat Worker Success:
 ```
 D/RefreshDataWorker: Starting background data refresh
